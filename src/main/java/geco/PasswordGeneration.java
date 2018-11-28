@@ -1,7 +1,7 @@
 package geco;
 
 public class PasswordGeneration {
-    public String generate() {
+    public String getRandomPassword() {
         String chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"; // Tu supprimes les lettres dont tu ne veux pas
         String pass = "";
         for (int x = 0; x < 8; x++) {
