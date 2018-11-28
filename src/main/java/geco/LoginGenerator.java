@@ -27,7 +27,7 @@ public class LoginGenerator {
      *     <li>Paul Dupond -> PDUP </li>
      *     <li>Pierre Dupard -> PDUP1</li>
      *     <li>Jacques Durand -> JDUR</li>
-     *     <li>Lionel R&eacute;gal -> LREG</li>
+     *     <li>Lionel Régal -> LREG</li>
      * </ul>
      * @param nom le nom
      * @param prenom le prenom
